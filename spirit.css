@@ -73,7 +73,7 @@ padding:0;
 text-decoration:none;
 text-transform:uppercase;
 }
-#main_menu a:hover, main_menu a:active
+#main_menu a:hover, #main_menu a:active
 {
 background-color:#f33D00;
 }
